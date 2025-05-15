@@ -26,7 +26,7 @@ Funcionalidades:
 <br/>
 Como usar:
 <br/>
-git clone https://github.com/seu-usuario/analise-salarios.git
+git clone [https://github.com/seu-usuario/analise-salarios.git](https://github.com/JoaoEmanuel1/Analise_Salarios_Globais.git)
 <br/>
 cd analise-salarios
 <br/>
